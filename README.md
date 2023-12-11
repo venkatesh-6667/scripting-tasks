@@ -1,9 +1,9 @@
 # scripting-tasks
-#This repo consists of two tasks
+## This repo consists of two tasks
 1. Fetch Data from API and Write to CSV.
 2. Update Records via API from CSV.
 
-#Task2-Description:
+## Task2-Description:
 
 This script retrieves data from below API endpoint and writes the fetched information to a CSV file. 
 # http://universities.hipolabs.com/search?country=Canada
@@ -12,7 +12,8 @@ The data fetched from the API pertains to universities in Canada and includes fi
 
 To get data from API and write it into csv file run the following command on task2 file.
 
-```python3 ./task2
+```
+python3 ./task2
 ```
 After executing the script it will create the csv file
 
