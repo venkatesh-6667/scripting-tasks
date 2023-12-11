@@ -3,20 +3,20 @@
 1. Fetch Data from API and Write to CSV.
 2. Update Records via API from CSV.
 
-## Task2-Description:
+# Task2-Description:
 
 This script retrieves data from below API endpoint and writes the fetched information to a CSV file. 
-# http://universities.hipolabs.com/search?country=Canada
-The data fetched from the API pertains to universities in Canada and includes fields such as 'Name', 'Country', 'Domain', and 'Web Page'. The script processes the JSON response received from the API and writes it into a  below CSV file
-''' universities_canada.csv '''
+ http://universities.hipolabs.com/search?country=Canada
+The data fetched from the API pertains to universities in Canada and includes fields such as 'Name', 'Country', 'Domain', and 'Web Page'. The script processes the JSON response received from the API and writes it into a  below CSV file.
+
+ universities_canada.csv 
 
 To get data from API and write it into csv file run the following command on task2 file.
 
 ```
 python3 ./task2
 ```
-After executing the script it will create the csv file
-
+After executing the script it will create the csv file. I have uploaded the  universities_canada.csv also for your reference
 
 
 ##Task3:
