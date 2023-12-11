@@ -19,13 +19,13 @@ python3 ./task2
 After executing the script it will create the csv file. I have uploaded the  universities_canada.csv also for your reference
 
 
-##Task3:
-#Description:
+## Task3:
+# Description:
 
 In this task we are using the csv file that we created in task 2 #universities_canada.csv
 
 task3.py script facilitates updating or creating records in API endpoint below using data from a CSV file.
-# http://universities.hipolabs.com/search?country=Canada
+http://universities.hipolabs.com/search?country=Canada
 
 To get the record from the csv file via API, Execute the following command 
 
